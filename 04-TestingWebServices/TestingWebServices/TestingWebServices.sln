@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Models", "News.Models\News.Models.csproj", "{F04C2864-F8AB-4346-9D89-13AB015ECD38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Data", "News.Data\News.Data.csproj", "{E700FC21-357B-424C-9FEB-F3FC954BBD1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Services", "News.Services\News.Services.csproj", "{B9BD707D-8A2A-49D2-9096-1A805D01024A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-News.RepositoriesTests", "News.RepositoriesTests\02-News.RepositoriesTests.csproj", "{7E40D751-EBDE-4DC6-BDE4-F6334BC1D83F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-News.ControllersTesting", "News.ControllersTesting\03-News.ControllersTesting.csproj", "{EA489FDF-0B0E-44A6-A4B2-530F80D84A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-News.IntegrationTests", "News.IntegrationTests\04-News.IntegrationTests.csproj", "{C5BF0429-D6F9-4E97-9945-5D6E9CA9B14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04C2864-F8AB-4346-9D89-13AB015ECD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04C2864-F8AB-4346-9D89-13AB015ECD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04C2864-F8AB-4346-9D89-13AB015ECD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04C2864-F8AB-4346-9D89-13AB015ECD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E700FC21-357B-424C-9FEB-F3FC954BBD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E700FC21-357B-424C-9FEB-F3FC954BBD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E700FC21-357B-424C-9FEB-F3FC954BBD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E700FC21-357B-424C-9FEB-F3FC954BBD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BD707D-8A2A-49D2-9096-1A805D01024A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BD707D-8A2A-49D2-9096-1A805D01024A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BD707D-8A2A-49D2-9096-1A805D01024A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BD707D-8A2A-49D2-9096-1A805D01024A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E40D751-EBDE-4DC6-BDE4-F6334BC1D83F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E40D751-EBDE-4DC6-BDE4-F6334BC1D83F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E40D751-EBDE-4DC6-BDE4-F6334BC1D83F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E40D751-EBDE-4DC6-BDE4-F6334BC1D83F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA489FDF-0B0E-44A6-A4B2-530F80D84A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA489FDF-0B0E-44A6-A4B2-530F80D84A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA489FDF-0B0E-44A6-A4B2-530F80D84A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA489FDF-0B0E-44A6-A4B2-530F80D84A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5BF0429-D6F9-4E97-9945-5D6E9CA9B14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BF0429-D6F9-4E97-9945-5D6E9CA9B14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BF0429-D6F9-4E97-9945-5D6E9CA9B14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BF0429-D6F9-4E97-9945-5D6E9CA9B14E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

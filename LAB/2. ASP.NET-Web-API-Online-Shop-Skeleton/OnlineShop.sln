@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Models", "OnlineShop.Models\OnlineShop.Models.csproj", "{BF075BFC-4A22-4DF8-9A8B-97E3C0F9FC5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Data", "OnlineShop.Data\OnlineShop.Data.csproj", "{8BD22F6E-48D0-4149-BF3E-FC31ECD67101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Services", "OnlineShop.Services\OnlineShop.Services.csproj", "{94460D08-0C01-4786-A457-500407AE8070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF075BFC-4A22-4DF8-9A8B-97E3C0F9FC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF075BFC-4A22-4DF8-9A8B-97E3C0F9FC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF075BFC-4A22-4DF8-9A8B-97E3C0F9FC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF075BFC-4A22-4DF8-9A8B-97E3C0F9FC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD22F6E-48D0-4149-BF3E-FC31ECD67101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD22F6E-48D0-4149-BF3E-FC31ECD67101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD22F6E-48D0-4149-BF3E-FC31ECD67101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD22F6E-48D0-4149-BF3E-FC31ECD67101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94460D08-0C01-4786-A457-500407AE8070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94460D08-0C01-4786-A457-500407AE8070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94460D08-0C01-4786-A457-500407AE8070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94460D08-0C01-4786-A457-500407AE8070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
